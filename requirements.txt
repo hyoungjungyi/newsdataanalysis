@@ -1,0 +1,5 @@
+requests
+newsapi
+bs4
+scikit-learn
+nltk
